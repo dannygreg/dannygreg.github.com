@@ -1,7 +1,13 @@
+@font-face {
+	font-family: nevis-bold;
+	src: url(../nevis.ttf);
+}
+
 h1 {
-	font-weight: bold;
-	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #d2d2d2;
+	text-shadow: #5b5d5d 0 -1px 0;
 	text-align: center;
+	font: 92px nevis-bold;
 }
 
 p {
