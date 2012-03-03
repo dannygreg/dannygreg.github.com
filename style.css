@@ -20,8 +20,19 @@ div {
 }
 
 a {
-	color: orange;
 	text-decoration: none;
+}
+
+a#twitter {
+	color: #33CCFF;
+}
+
+img.bullet {
+	margin-top: 20px;
+}
+
+a#github {
+	color: #F08C00;	
 }
 
 a:hover {
