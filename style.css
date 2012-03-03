@@ -28,7 +28,7 @@ a#twitter {
 }
 
 img.bullet {
-	margin-top: 20px;
+	vertical-align: -5px;
 }
 
 a#github {
